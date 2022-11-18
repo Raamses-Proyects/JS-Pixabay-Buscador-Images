@@ -93,8 +93,8 @@ img {
     gap: 2rem;
 }
 .imagen__img {
-    border-top-left-radius: 1.5rem;
-    border-top-right-radius: 1.5rem;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
     width: 24rem;
     height: 13.5rem;
     object-fit: cover;
@@ -102,8 +102,8 @@ img {
 .imagen__contenido {
     padding: 2rem;
     background-color: var(--blanco);
-    border-end-start-radius: 1.5rem;
-    border-end-end-radius: 1.5rem;
+    border-end-start-radius: 2rem;
+    border-end-end-radius: 2rem;
 }
 .imagen__texto {
     margin: 0 0 1rem 0;
