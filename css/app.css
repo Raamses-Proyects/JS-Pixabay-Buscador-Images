@@ -100,7 +100,7 @@ img {
     object-fit: cover;
 }
 .imagen__contenido {
-    padding: 1.5rem;
+    padding: 2rem;
     background-color: var(--blanco);
     border-end-start-radius: 1.5rem;
     border-end-end-radius: 1.5rem;
